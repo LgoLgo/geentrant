@@ -1,8 +1,8 @@
-# .github
+![geentrant](img/geentrant.png)
 
 English | [中文](README_zh.md)
 
-Money is cheap, show me the code.
+Lightweight reentrant lock implemented in Go.
 
 ## License
 

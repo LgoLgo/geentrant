@@ -1,7 +1,7 @@
-package LgoLgo
+package greetrant
 
 // Name and Version info of this framework, used for statistics and debug
 const (
-	Name    = "LgoLgo"
-	Version = "v0.0.1"
+	Name    = "geentrant"
+	Version = "v0.1.0"
 )

@@ -1,8 +1,8 @@
-# .github
+![geentrant](img/geentrant.png)
 
 [English](README.md) | 中文
 
-Money is cheap, show me the code.
+Go 语言实现的轻量级重入锁。
 
 ## 许可证
 
