@@ -36,6 +36,5 @@ func main() {
 		}()
 		rm.Unlock()
 	}()
-
 	wg.Wait()
 }
